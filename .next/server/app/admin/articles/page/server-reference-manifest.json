@@ -1,6 +1,6 @@
 {
   "node": {
-    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+    "00d3eda9c19319b0e621d98c91201066c525c681ce": {
       "workers": {
         "app/admin/articles/page": {
           "moduleId": 20744,
@@ -15,7 +15,7 @@
       "exportedName": "initAdminUser",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
     },
-    "403c41cdf36bcba90586d7c1ad90001d17ff109e90": {
+    "4059cc46ca0462f4d37b56a48ca2cf3c87c960ab96": {
       "workers": {
         "app/admin/articles/page": {
           "moduleId": 20744,

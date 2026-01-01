@@ -1,6 +1,6 @@
 {
   "node": {
-    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+    "00d3eda9c19319b0e621d98c91201066c525c681ce": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -15,7 +15,7 @@
       "exportedName": "initAdminUser",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
     },
-    "40358f6b30c8131576b5ba9a803bc11d215db2d3b4": {
+    "4046b413d63a272f438331783fcf9d95d081b752b5": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -30,7 +30,7 @@
       "exportedName": "createBook",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
     },
-    "60f4c4e99c3b3fdd1d9f4302cafb7b50ecf02272f4": {
+    "6005c86a6234f249bf31f5c3ef4727f2436870c358": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -45,7 +45,7 @@
       "exportedName": "updateBookAction",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
     },
-    "40665f823f2248495a041ae484defce00386628db4": {
+    "4018c57c076c1c44c9d08540240e92f19de02c0539": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
