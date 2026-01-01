@@ -1,0 +1,65 @@
+{
+  "node": {
+    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "rsc"
+      },
+      "exportedName": "initAdminUser",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+    },
+    "40358f6b30c8131576b5ba9a803bc11d215db2d3b4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "createBook",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    },
+    "60f4c4e99c3b3fdd1d9f4302cafb7b50ecf02272f4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "updateBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "updateBookAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    },
+    "40665f823f2248495a041ae484defce00386628db4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "deleteBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "deleteBookAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    }
+  },
+  "edge": {}
+}

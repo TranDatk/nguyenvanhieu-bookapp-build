@@ -1,0 +1,14 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/Desktop/nguyenvanhieu-bookapp/src/app/admin/practices/page": [
+      "static/media/9de307755bdae5a1-s.p.b8bd3ca3.woff2",
+      "static/media/248e1dc0efc99276-s.p.8a6b2436.woff2",
+      "static/media/70e3db2de7f94926-s.p.347f98aa.woff2",
+      "static/media/2a65768255d6b625-s.p.d19752fb.woff2",
+      "static/media/ce62453a442c7f35-s.p.a9507876.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

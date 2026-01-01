@@ -1,0 +1,35 @@
+{
+  "node": {
+    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+      "workers": {
+        "app/admin/users/page": {
+          "moduleId": 9289,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/users/page": "rsc"
+      },
+      "exportedName": "initAdminUser",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+    },
+    "40d822be9c958f39ffb92abf652cfb9af1388c8b11": {
+      "workers": {
+        "app/admin/users/page": {
+          "moduleId": 9289,
+          "async": false,
+          "exportedName": "updateUserAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+        }
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      },
+      "exportedName": "updateUserAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,20 @@
+{
+  "node": {
+    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+      "workers": {
+        "app/admin/comments/page": {
+          "moduleId": 18759,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/comments/page": "rsc"
+      },
+      "exportedName": "initAdminUser",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}

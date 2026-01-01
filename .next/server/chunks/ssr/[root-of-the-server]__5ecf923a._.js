@@ -1,0 +1,3 @@
+module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},60075,a=>{a.n(a.i(75280))},93785,a=>{a.n(a.i(43960))},67723,a=>{a.n(a.i(82567))},35173,a=>{a.n(a.i(49380))},73822,a=>{a.n(a.i(74866))},36471,a=>{"use strict";var b=a.i(93263);function c(){return(0,b.jsx)("div",{className:"p-20 text-center text-slate-500",children:"Đang cập nhật nội dung cho chuyên mục này."})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__5ecf923a._.js.map

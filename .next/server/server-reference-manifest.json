@@ -1,0 +1,290 @@
+{
+  "node": {
+    "0074aea2f47451b71d84fa3da6cb5c390a09741a06": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": 60198,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/articles/[id]/edit/page": {
+          "moduleId": 11088,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/articles/new/page": {
+          "moduleId": 71395,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/articles/page": {
+          "moduleId": 20744,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/comments/page": {
+          "moduleId": 18759,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/page": {
+          "moduleId": 46211,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/practices/page": {
+          "moduleId": 71189,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/settings/page": {
+          "moduleId": 84858,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/admin/users/page": {
+          "moduleId": 9289,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/articles/[id]/page": {
+          "moduleId": 19478,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/articles/page": {
+          "moduleId": 58989,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/books/[id]/page": {
+          "moduleId": 19297,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/books/page": {
+          "moduleId": 65043,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/category/[slug]/page": {
+          "moduleId": 76557,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/login/page": {
+          "moduleId": 27003,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/page": {
+          "moduleId": 76863,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        },
+        "app/practices/page": {
+          "moduleId": 28865,
+          "async": false,
+          "exportedName": "initAdminUser",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "rsc",
+        "app/admin/articles/[id]/edit/page": "rsc",
+        "app/admin/articles/new/page": "rsc",
+        "app/admin/articles/page": "rsc",
+        "app/admin/books/page": "rsc",
+        "app/admin/comments/page": "rsc",
+        "app/admin/page": "rsc",
+        "app/admin/practices/page": "rsc",
+        "app/admin/settings/page": "rsc",
+        "app/admin/users/page": "rsc",
+        "app/articles/[id]/page": "rsc",
+        "app/articles/page": "rsc",
+        "app/books/[id]/page": "rsc",
+        "app/books/page": "rsc",
+        "app/category/[slug]/page": "rsc",
+        "app/login/page": "rsc",
+        "app/page": "rsc",
+        "app/practices/page": "rsc"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts",
+      "exportedName": "initAdminUser"
+    },
+    "403c41cdf36bcba90586d7c1ad90001d17ff109e90": {
+      "workers": {
+        "app/admin/articles/page": {
+          "moduleId": 20744,
+          "async": false,
+          "exportedName": "deleteArticleAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
+      "exportedName": "deleteArticleAction"
+    },
+    "40350f6eee730d173ec892b6259f4a0674b4404421": {
+      "workers": {
+        "app/admin/articles/new/page": {
+          "moduleId": 71395,
+          "async": false,
+          "exportedName": "createArticle",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/new/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
+      "exportedName": "createArticle"
+    },
+    "407de080604a75fcdcf2cf8df9b8260abf24d7112e": {
+      "workers": {
+        "app/admin/articles/new/page": {
+          "moduleId": 71395,
+          "async": false,
+          "exportedName": "saveDraftArticle",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/new/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
+      "exportedName": "saveDraftArticle"
+    },
+    "40358f6b30c8131576b5ba9a803bc11d215db2d3b4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
+      "exportedName": "createBook"
+    },
+    "60f4c4e99c3b3fdd1d9f4302cafb7b50ecf02272f4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "updateBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
+      "exportedName": "updateBookAction"
+    },
+    "40665f823f2248495a041ae484defce00386628db4": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 30774,
+          "async": false,
+          "exportedName": "deleteBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
+      "exportedName": "deleteBookAction"
+    },
+    "4064caddbd032446178c382cbcf05088db6af37d5b": {
+      "workers": {
+        "app/admin/practices/page": {
+          "moduleId": 71189,
+          "async": false,
+          "exportedName": "createPractice",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+        }
+      },
+      "layer": {
+        "app/admin/practices/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
+      "exportedName": "createPractice"
+    },
+    "601a103112185bc5ec88150007418363096b7756b1": {
+      "workers": {
+        "app/admin/practices/page": {
+          "moduleId": 71189,
+          "async": false,
+          "exportedName": "updatePracticeAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+        }
+      },
+      "layer": {
+        "app/admin/practices/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
+      "exportedName": "updatePracticeAction"
+    },
+    "40f93be7d2ec777062829d2b8f45e0b7283158ac86": {
+      "workers": {
+        "app/admin/practices/page": {
+          "moduleId": 71189,
+          "async": false,
+          "exportedName": "deletePracticeAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+        }
+      },
+      "layer": {
+        "app/admin/practices/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
+      "exportedName": "deletePracticeAction"
+    },
+    "40d822be9c958f39ffb92abf652cfb9af1388c8b11": {
+      "workers": {
+        "app/admin/users/page": {
+          "moduleId": 9289,
+          "async": false,
+          "exportedName": "updateUserAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+        }
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      },
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts",
+      "exportedName": "updateUserAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "5OX3ml4r0+Jd0O+BbqNN4AX4kGLpikRFjJBJdiNK+j0="
+}
