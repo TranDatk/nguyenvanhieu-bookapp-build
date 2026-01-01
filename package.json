@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "build:standalone": "next build && node scripts/copy-standalone-files.js",
-    "start": "next start",
+    "start": "PORT=8080 node server.js",
     "lint": "eslint",
     "migrate": "tsx scripts/migrate-to-mariadb.ts"
   },
