@@ -1,6 +1,6 @@
 {
   "node": {
-    "00d3eda9c19319b0e621d98c91201066c525c681ce": {
+    "003207575d83880c8e285b21ef82a74edc0353b25c": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 60198,
@@ -134,7 +134,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts",
       "exportedName": "initAdminUser"
     },
-    "4059cc46ca0462f4d37b56a48ca2cf3c87c960ab96": {
+    "4068440f14e0880b82b1efc18b3547fe1a50a2d0fd": {
       "workers": {
         "app/admin/articles/page": {
           "moduleId": 20744,
@@ -149,7 +149,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
       "exportedName": "deleteArticleAction"
     },
-    "40a03f3f02e1c4355bd46112b3522837ab8cd6784f": {
+    "404970d393da7a2d703d6416e5c9b80881928d6357": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 71395,
@@ -164,7 +164,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
       "exportedName": "createArticle"
     },
-    "4031b698d546d934380cc6f7e4b1a9f3aac93ccb83": {
+    "4091ac4dc8477ed0c498ffa06c54ea99f08af9d4eb": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 71395,
@@ -179,7 +179,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts",
       "exportedName": "saveDraftArticle"
     },
-    "4046b413d63a272f438331783fcf9d95d081b752b5": {
+    "40383b5e36610f61e867900b98b39d8e80d9f8e1ff": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -194,7 +194,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
       "exportedName": "createBook"
     },
-    "6005c86a6234f249bf31f5c3ef4727f2436870c358": {
+    "60fac9b789eb8b6d815f4d0200c9545b83d0db18e9": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -209,7 +209,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
       "exportedName": "updateBookAction"
     },
-    "4018c57c076c1c44c9d08540240e92f19de02c0539": {
+    "40f441bbe7c8c41a3003294950dd1f8c15f0ea9ebd": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 30774,
@@ -224,7 +224,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts",
       "exportedName": "deleteBookAction"
     },
-    "40fb55060358b1b8e5f5b4c6a5adeb21d8ce1d5304": {
+    "407f0ed198624876538577701e0ba948d2847fbd20": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 71189,
@@ -239,7 +239,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
       "exportedName": "createPractice"
     },
-    "60f057b59adc198d9a3ad747dbb4926288bfe66ddf": {
+    "60a035438d3d917101eb506e157fae5e5b36845113": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 71189,
@@ -254,7 +254,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
       "exportedName": "updatePracticeAction"
     },
-    "409714f7f417d54a6f024632e94359c7580161df65": {
+    "4028d7a750835bd212995113622a42d4a413987c9a": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 71189,
@@ -269,7 +269,7 @@
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts",
       "exportedName": "deletePracticeAction"
     },
-    "400221a309328c8e3d7acc763d464d667949c6348b": {
+    "40195c379af5f51b3470f78f32b4ac825ff0211353": {
       "workers": {
         "app/admin/users/page": {
           "moduleId": 9289,
@@ -286,5 +286,5 @@
     }
   },
   "edge": {},
-  "encryptionKey": "39DjArGOR/shtXxQgw1fkMjm95aeKoBQj9mauE65Z3o="
+  "encryptionKey": "MOmUtVF8fDc8kXuhBi+3pWnHjlduGXcLHXtljQk7oBM="
 }
