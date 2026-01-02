@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "cross-env SKIP_INIT=true next build",
     "build:standalone": "cross-env SKIP_INIT=true next build && node scripts/copy-standalone-files.js",
-    "start": "PORT=8080 node server.js",
+    "start": "node server.js",
     "lint": "eslint",
     "migrate": "tsx scripts/migrate-to-mariadb.ts"
   },
