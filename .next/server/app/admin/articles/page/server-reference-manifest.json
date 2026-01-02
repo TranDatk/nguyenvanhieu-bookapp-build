@@ -1,0 +1,20 @@
+{
+  "node": {
+    "4067f50f07366ee318183861b12b15418f4e1ab3a6": {
+      "workers": {
+        "app/admin/articles/page": {
+          "moduleId": 55560,
+          "async": false,
+          "exportedName": "deleteArticleAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/page": "action-browser"
+      },
+      "exportedName": "deleteArticleAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+    }
+  },
+  "edge": {}
+}

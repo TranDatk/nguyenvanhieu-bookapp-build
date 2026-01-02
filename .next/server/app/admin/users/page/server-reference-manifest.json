@@ -1,0 +1,20 @@
+{
+  "node": {
+    "403e74fa7fab4a0523fe5985561964ea99ba5ad312": {
+      "workers": {
+        "app/admin/users/page": {
+          "moduleId": 71325,
+          "async": false,
+          "exportedName": "updateUserAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+        }
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      },
+      "exportedName": "updateUserAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+    }
+  },
+  "edge": {}
+}

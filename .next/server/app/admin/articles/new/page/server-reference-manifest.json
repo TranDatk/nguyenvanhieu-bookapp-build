@@ -1,0 +1,35 @@
+{
+  "node": {
+    "40c494ddaea0efee213a8b84857c017367a9bc2a19": {
+      "workers": {
+        "app/admin/articles/new/page": {
+          "moduleId": 69692,
+          "async": false,
+          "exportedName": "createArticle",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/new/page": "action-browser"
+      },
+      "exportedName": "createArticle",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+    },
+    "40c42363a35f8be9c46a1c1cf34c8122009b96b638": {
+      "workers": {
+        "app/admin/articles/new/page": {
+          "moduleId": 69692,
+          "async": false,
+          "exportedName": "saveDraftArticle",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+        }
+      },
+      "layer": {
+        "app/admin/articles/new/page": "action-browser"
+      },
+      "exportedName": "saveDraftArticle",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+    }
+  },
+  "edge": {}
+}

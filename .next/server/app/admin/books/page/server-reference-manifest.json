@@ -1,0 +1,50 @@
+{
+  "node": {
+    "4035cfc8cc75e556750b110ff9bf347e98c5b15dac": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 85240,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "createBook",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    },
+    "603f88df06e26d703cd16bbae5d55d08fa56427a81": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 85240,
+          "async": false,
+          "exportedName": "updateBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "updateBookAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    },
+    "4072c86f5762dde9a42364399dd1e2ab0d4ac2ef2e": {
+      "workers": {
+        "app/admin/books/page": {
+          "moduleId": 85240,
+          "async": false,
+          "exportedName": "deleteBookAction",
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+        }
+      },
+      "layer": {
+        "app/admin/books/page": "action-browser"
+      },
+      "exportedName": "deleteBookAction",
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+    }
+  },
+  "edge": {}
+}

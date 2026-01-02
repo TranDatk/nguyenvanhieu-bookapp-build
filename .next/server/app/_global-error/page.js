@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0124a8fd._.js")
+R.c("server/chunks/ssr/Desktop_nguyenvanhieu-bookapp_e7363ca8._.js")
+R.c("server/chunks/ssr/0f98f_next_dist_9be3077f._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__2df075ee._.js")
+R.c("server/chunks/ssr/0f98f_next_dist_9479d05e._.js")
+R.c("server/chunks/ssr/0f98f_next_dist_24fa555f._.js")
+R.c("server/chunks/ssr/0f98f_f00ba5ef._.js")
+R.c("server/chunks/ssr/0f98f_next_dist_compiled_3b57a7a4._.js")
+R.c("server/chunks/ssr/Desktop_nguyenvanhieu-bookapp_src_app_06d2dc7f._.js")
+R.c("server/chunks/ssr/febd8__next-internal_server_app__global-error_page_actions_5264ca84.js")
+R.m(20214)
+module.exports=R.m(20214).exports
