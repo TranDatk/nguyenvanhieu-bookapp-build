@@ -1,24 +1,9 @@
 {
   "node": {
-    "003207575d83880c8e285b21ef82a74edc0353b25c": {
+    "4015f2833c3c1656cc3c4613d24a1d49e75333d300": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 71189,
-          "async": false,
-          "exportedName": "initAdminUser",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
-        }
-      },
-      "layer": {
-        "app/admin/practices/page": "rsc"
-      },
-      "exportedName": "initAdminUser",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/auth.ts"
-    },
-    "407f0ed198624876538577701e0ba948d2847fbd20": {
-      "workers": {
-        "app/admin/practices/page": {
-          "moduleId": 71189,
+          "moduleId": 45792,
           "async": false,
           "exportedName": "createPractice",
           "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
@@ -30,10 +15,10 @@
       "exportedName": "createPractice",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
     },
-    "60a035438d3d917101eb506e157fae5e5b36845113": {
+    "604c6b7d76a9e319b48102b0d49dd4dde07592a35c": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 71189,
+          "moduleId": 45792,
           "async": false,
           "exportedName": "updatePracticeAction",
           "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
@@ -45,10 +30,10 @@
       "exportedName": "updatePracticeAction",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
     },
-    "4028d7a750835bd212995113622a42d4a413987c9a": {
+    "40ad0faa1bf746acebecd5bf52d4038b231f445b28": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 71189,
+          "moduleId": 45792,
           "async": false,
           "exportedName": "deletePracticeAction",
           "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
