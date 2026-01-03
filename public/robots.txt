@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin pages
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Sitemap
+Sitemap: https://nguyenvanhieu.com/sitemap.xml
+

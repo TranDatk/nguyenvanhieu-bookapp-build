@@ -32,8 +32,9 @@
   "/books/[id]/page": "/books/[id]",
   "/books/page": "/books",
   "/category/[slug]/page": "/category/[slug]",
-  "/favicon.ico/route": "/favicon.ico",
+  "/icon.svg/route": "/icon.svg",
   "/login/page": "/login",
   "/page": "/",
-  "/practices/page": "/practices"
+  "/practices/page": "/practices",
+  "/sitemap.xml/route": "/sitemap.xml"
 }

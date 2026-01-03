@@ -1,6 +1,6 @@
 {
   "node": {
-    "40db3e747465b7e708c41df673346a66dc13304caf": {
+    "4022212b2b68638ffafee8ca31433191c37f86a2c3": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 45792,
@@ -15,7 +15,7 @@
       "exportedName": "createPractice",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
     },
-    "606635dc895698a84d83e43d1ba569faea54c35fb1": {
+    "602082a5bc4d937be129f4c1b45bad4f1195cd1ab4": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 45792,
@@ -30,7 +30,7 @@
       "exportedName": "updatePracticeAction",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
     },
-    "40955782c6031e4b8a6089db55c9777452a1292476": {
+    "408d27868de964c43ef9a6313734c4130197cadc62": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 45792,

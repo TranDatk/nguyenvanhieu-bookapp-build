@@ -32,8 +32,9 @@
   "/books/[id]/page": "app/books/[id]/page.js",
   "/books/page": "app/books/page.js",
   "/category/[slug]/page": "app/category/[slug]/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
   "/login/page": "app/login/page.js",
   "/page": "app/page.js",
-  "/practices/page": "app/practices/page.js"
+  "/practices/page": "app/practices/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
 }
