@@ -1,6 +1,6 @@
 {
   "node": {
-    "40c494ddaea0efee213a8b84857c017367a9bc2a19": {
+    "40826319a763605664e061eeb86090d0ee0322172a": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 69692,
@@ -15,7 +15,7 @@
       "exportedName": "createArticle",
       "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
     },
-    "40c42363a35f8be9c46a1c1cf34c8122009b96b638": {
+    "4002a392d4abf68712009f002e5f773e4741c11ce9": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 69692,
