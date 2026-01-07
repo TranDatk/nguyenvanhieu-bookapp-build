@@ -1,34 +1,34 @@
 {
   "node": {
-    "400433d9cd361b5a198be09de270b6b1c9e73e6ad8": {
+    "40e87edf44e41253258f2bdd2739a45ea093684fd8": {
       "workers": {
         "app/admin/articles/new/page": {
-          "moduleId": 69692,
+          "moduleId": 43593,
           "async": false,
           "exportedName": "createArticle",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+          "filename": "src/app/actions/articles.ts"
         }
       },
       "layer": {
         "app/admin/articles/new/page": "action-browser"
       },
       "exportedName": "createArticle",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+      "filename": "src/app/actions/articles.ts"
     },
-    "40127b8429a1333abc84dd58dd1ebaad37e8244e82": {
+    "40b7e03f5cf04dd49e287989bf056f7aa9c7bde02d": {
       "workers": {
         "app/admin/articles/new/page": {
-          "moduleId": 69692,
+          "moduleId": 43593,
           "async": false,
           "exportedName": "saveDraftArticle",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+          "filename": "src/app/actions/articles.ts"
         }
       },
       "layer": {
         "app/admin/articles/new/page": "action-browser"
       },
       "exportedName": "saveDraftArticle",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
+      "filename": "src/app/actions/articles.ts"
     }
   },
   "edge": {}

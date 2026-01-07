@@ -1,19 +1,19 @@
 {
   "node": {
-    "403440f8cd5c482a5d4759c40d4da49570a5d0124e": {
+    "405292e0be83cbc37af4910b7372013f9ab7255e34": {
       "workers": {
         "app/admin/users/page": {
-          "moduleId": 71325,
+          "moduleId": 43093,
           "async": false,
           "exportedName": "updateUserAction",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+          "filename": "src/app/actions/users.ts"
         }
       },
       "layer": {
         "app/admin/users/page": "action-browser"
       },
       "exportedName": "updateUserAction",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/users.ts"
+      "filename": "src/app/actions/users.ts"
     }
   },
   "edge": {}

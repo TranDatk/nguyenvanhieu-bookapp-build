@@ -1,49 +1,49 @@
 {
   "node": {
-    "40ee81868a3c4db1edd1e7f06767caeba8760379df": {
+    "40b0689440a3e8034cce5c99364ef2450d21ffbdd2": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 45792,
+          "moduleId": 51289,
           "async": false,
           "exportedName": "createPractice",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+          "filename": "src/app/actions/practices.ts"
         }
       },
       "layer": {
         "app/admin/practices/page": "action-browser"
       },
       "exportedName": "createPractice",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+      "filename": "src/app/actions/practices.ts"
     },
-    "605dcdd3890e5db9540c43cefc7e31252de89496dd": {
+    "602f2c86e7bf402d1b6de30170c8625cdae87291d9": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 45792,
+          "moduleId": 51289,
           "async": false,
           "exportedName": "updatePracticeAction",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+          "filename": "src/app/actions/practices.ts"
         }
       },
       "layer": {
         "app/admin/practices/page": "action-browser"
       },
       "exportedName": "updatePracticeAction",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+      "filename": "src/app/actions/practices.ts"
     },
-    "40b15f162b2132e40cbe31b94420af6170e74959f8": {
+    "40581e16b366833aabce63846300ddaf5fec6848e8": {
       "workers": {
         "app/admin/practices/page": {
-          "moduleId": 45792,
+          "moduleId": 51289,
           "async": false,
           "exportedName": "deletePracticeAction",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+          "filename": "src/app/actions/practices.ts"
         }
       },
       "layer": {
         "app/admin/practices/page": "action-browser"
       },
       "exportedName": "deletePracticeAction",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/practices.ts"
+      "filename": "src/app/actions/practices.ts"
     }
   },
   "edge": {}
