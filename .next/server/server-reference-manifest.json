@@ -1,6 +1,6 @@
 {
   "node": {
-    "40324089eb1373d59a78f761187494af60523cc207": {
+    "402cb9b10ecc9705b10c877f0579f778dee4c93489": {
       "workers": {
         "app/admin/articles/page": {
           "moduleId": 20483,
@@ -15,7 +15,7 @@
       "filename": "src/app/actions/articles.ts",
       "exportedName": "deleteArticleAction"
     },
-    "40e87edf44e41253258f2bdd2739a45ea093684fd8": {
+    "403e4e0489f35f90c2dea6edb42a38cdaa5a7d09a3": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 43593,
@@ -30,7 +30,7 @@
       "filename": "src/app/actions/articles.ts",
       "exportedName": "createArticle"
     },
-    "40b7e03f5cf04dd49e287989bf056f7aa9c7bde02d": {
+    "408d552f8464d615069a65580b9e63e5fb67d572d2": {
       "workers": {
         "app/admin/articles/new/page": {
           "moduleId": 43593,
@@ -45,7 +45,7 @@
       "filename": "src/app/actions/articles.ts",
       "exportedName": "saveDraftArticle"
     },
-    "407400a44c3b5a627cc4425f8e209cfc596487f41d": {
+    "409d8ed733694849ad238012f1ac032fd8e9125030": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,
@@ -60,7 +60,7 @@
       "filename": "src/app/actions/books.ts",
       "exportedName": "createBook"
     },
-    "6063e302b8983c4e8527bde9c16c332cbec1d1ade3": {
+    "6066aacf79f942524d9f0068cea11d5f6c8f8c254b": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,
@@ -75,7 +75,7 @@
       "filename": "src/app/actions/books.ts",
       "exportedName": "updateBookAction"
     },
-    "4089a1e807028c6f831f7af53a7afefad4fca41bdc": {
+    "4003dfbe90966b6bfa79dd323da456c9ab97b58d81": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,
@@ -90,7 +90,7 @@
       "filename": "src/app/actions/books.ts",
       "exportedName": "deleteBookAction"
     },
-    "40b0689440a3e8034cce5c99364ef2450d21ffbdd2": {
+    "4048fcf199723f909994d8394b5e849546a648d923": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
@@ -105,7 +105,7 @@
       "filename": "src/app/actions/practices.ts",
       "exportedName": "createPractice"
     },
-    "602f2c86e7bf402d1b6de30170c8625cdae87291d9": {
+    "60714f2fcf902d62acbfec5348293d9f5aba231e5f": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
@@ -120,7 +120,7 @@
       "filename": "src/app/actions/practices.ts",
       "exportedName": "updatePracticeAction"
     },
-    "40581e16b366833aabce63846300ddaf5fec6848e8": {
+    "4003fdf0819a20039337c776fc547b7798c3948901": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
@@ -135,7 +135,7 @@
       "filename": "src/app/actions/practices.ts",
       "exportedName": "deletePracticeAction"
     },
-    "405292e0be83cbc37af4910b7372013f9ab7255e34": {
+    "407c5761954df6aa9b687be719e4572fc0aef938fd": {
       "workers": {
         "app/admin/users/page": {
           "moduleId": 43093,
@@ -152,5 +152,5 @@
     }
   },
   "edge": {},
-  "encryptionKey": "3+2oq23dxY3J1OxwpkMFcKJErLUqjz7abQDXdUMEe5g="
+  "encryptionKey": "SnkkDTBc5awzXUZoU0GkIOoH5YwlLN1Ad8f4MBmhX1Q="
 }

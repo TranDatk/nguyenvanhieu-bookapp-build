@@ -1,6 +1,6 @@
 {
   "node": {
-    "407400a44c3b5a627cc4425f8e209cfc596487f41d": {
+    "409d8ed733694849ad238012f1ac032fd8e9125030": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,
@@ -15,7 +15,7 @@
       "exportedName": "createBook",
       "filename": "src/app/actions/books.ts"
     },
-    "6063e302b8983c4e8527bde9c16c332cbec1d1ade3": {
+    "6066aacf79f942524d9f0068cea11d5f6c8f8c254b": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,
@@ -30,7 +30,7 @@
       "exportedName": "updateBookAction",
       "filename": "src/app/actions/books.ts"
     },
-    "4089a1e807028c6f831f7af53a7afefad4fca41bdc": {
+    "4003dfbe90966b6bfa79dd323da456c9ab97b58d81": {
       "workers": {
         "app/admin/books/page": {
           "moduleId": 80796,

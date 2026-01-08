@@ -1,6 +1,6 @@
 {
   "node": {
-    "40b0689440a3e8034cce5c99364ef2450d21ffbdd2": {
+    "4048fcf199723f909994d8394b5e849546a648d923": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
@@ -15,7 +15,7 @@
       "exportedName": "createPractice",
       "filename": "src/app/actions/practices.ts"
     },
-    "602f2c86e7bf402d1b6de30170c8625cdae87291d9": {
+    "60714f2fcf902d62acbfec5348293d9f5aba231e5f": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
@@ -30,7 +30,7 @@
       "exportedName": "updatePracticeAction",
       "filename": "src/app/actions/practices.ts"
     },
-    "40581e16b366833aabce63846300ddaf5fec6848e8": {
+    "4003fdf0819a20039337c776fc547b7798c3948901": {
       "workers": {
         "app/admin/practices/page": {
           "moduleId": 51289,
