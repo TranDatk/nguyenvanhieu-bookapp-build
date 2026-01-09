@@ -1,49 +1,49 @@
 {
   "node": {
-    "406546296eaca4240f70531065b243f601c4b22383": {
+    "40f42ee5770deb457acd994cecbe54704622ae2632": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 85240,
+          "moduleId": 80796,
           "async": false,
           "exportedName": "createBook",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+          "filename": "src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "createBook",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+      "filename": "src/app/actions/books.ts"
     },
-    "603dfe68d947fc3571d27037e4f6f5a523363d2b22": {
+    "60c742e968e415cc5f59ffd4c18b455199da6e1bcf": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 85240,
+          "moduleId": 80796,
           "async": false,
           "exportedName": "updateBookAction",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+          "filename": "src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "updateBookAction",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+      "filename": "src/app/actions/books.ts"
     },
-    "40263847444d9fffbcb3eaf2dbd2e48a336da718df": {
+    "4098213122a6e20393c2acada8793fd8655d57d690": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 85240,
+          "moduleId": 80796,
           "async": false,
           "exportedName": "deleteBookAction",
-          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+          "filename": "src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "deleteBookAction",
-      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
+      "filename": "src/app/actions/books.ts"
     }
   },
   "edge": {}
