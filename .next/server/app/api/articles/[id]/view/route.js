@@ -1,8 +1,8 @@
 var R=require("../../../../../chunks/[turbopack]_runtime.js")("server/app/api/articles/[id]/view/route.js")
-R.c("server/chunks/[root-of-the-server]__100ed79d._.js")
-R.c("server/chunks/[root-of-the-server]__8a65c5e6._.js")
-R.c("server/chunks/_87a8865f._.js")
-R.c("server/chunks/[root-of-the-server]__f408c708._.js")
-R.c("server/chunks/_next-internal_server_app_api_articles_[id]_view_route_actions_e0cb5597.js")
-R.m(19624)
-module.exports=R.m(19624).exports
+R.c("server/chunks/[root-of-the-server]__c099fbda._.js")
+R.c("server/chunks/[root-of-the-server]__d0cd203c._.js")
+R.c("server/chunks/Desktop_nguyenvanhieu-bookapp_44c8f9e7._.js")
+R.c("server/chunks/[root-of-the-server]__dc4402d9._.js")
+R.c("server/chunks/febd8__next-internal_server_app_api_articles_[id]_view_route_actions_9006f806.js")
+R.m(7384)
+module.exports=R.m(7384).exports

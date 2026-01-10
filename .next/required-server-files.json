@@ -141,8 +141,8 @@
       "isExperimentalCompile": false
     }
   },
-  "appDir": "C:\\Users\\dat.tran\\Desktop\\nguyenvanhieu-bookapp",
-  "relativeAppDir": "",
+  "appDir": "C:\\Users\\Admin\\Desktop\\nguyenvanhieu-bookapp",
+  "relativeAppDir": "Desktop\\nguyenvanhieu-bookapp",
   "files": [
     ".next\\routes-manifest.json",
     ".next\\server\\pages-manifest.json",

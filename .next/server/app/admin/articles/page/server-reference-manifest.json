@@ -1,19 +1,19 @@
 {
   "node": {
-    "4071a3faf7ba366ef91f0423ec946267ad262cb1df": {
+    "40d716ff687cd8beb5cf94850f81a8bc92243a9099": {
       "workers": {
         "app/admin/articles/page": {
-          "moduleId": 20483,
+          "moduleId": 55560,
           "async": false,
           "exportedName": "deleteArticleAction",
-          "filename": "src/app/actions/articles.ts"
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
         }
       },
       "layer": {
         "app/admin/articles/page": "action-browser"
       },
       "exportedName": "deleteArticleAction",
-      "filename": "src/app/actions/articles.ts"
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/articles.ts"
     }
   },
   "edge": {}

@@ -1,49 +1,49 @@
 {
   "node": {
-    "40b4aa8c020a48d24474cb67df3b51bf7d88cf3e6f": {
+    "4054754dcb0a0b3dcaf5ec276703d6ec5401e5f567": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 80796,
+          "moduleId": 85240,
           "async": false,
           "exportedName": "createBook",
-          "filename": "src/app/actions/books.ts"
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "createBook",
-      "filename": "src/app/actions/books.ts"
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
     },
-    "604e01a405c5f4c1f4e90d393976b17ef71dbce5dd": {
+    "601201cf01fb38066dc023cc2a986a60a7e25e9e9a": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 80796,
+          "moduleId": 85240,
           "async": false,
           "exportedName": "updateBookAction",
-          "filename": "src/app/actions/books.ts"
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "updateBookAction",
-      "filename": "src/app/actions/books.ts"
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
     },
-    "40a793c93d2c797c85adb18381dfed2a15b67d241d": {
+    "40853aed5164612fbff9b704a861f461a26d49e1e2": {
       "workers": {
         "app/admin/books/page": {
-          "moduleId": 80796,
+          "moduleId": 85240,
           "async": false,
           "exportedName": "deleteBookAction",
-          "filename": "src/app/actions/books.ts"
+          "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
         }
       },
       "layer": {
         "app/admin/books/page": "action-browser"
       },
       "exportedName": "deleteBookAction",
-      "filename": "src/app/actions/books.ts"
+      "filename": "Desktop/nguyenvanhieu-bookapp/src/app/actions/books.ts"
     }
   },
   "edge": {}
